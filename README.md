@@ -1,10 +1,8 @@
 # IsoParser
-
-##csv-example.csv
-Just in case
-
-##STEPS:
+## STEPS
 1. Open IsoParser.sln.
-2. Open countries.json.
-3. Change values.
+3. Change values in  countries.json.
+```"AF": "fa"```
 5. Run the project.
+## csv-example.csv
+Just in case
